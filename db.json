@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "ahmed",
+      "name": "ahmed samy",
+      "email": "ahmdsamy12@gmail.com",
+      "password": "Qmz4y6M$93Hvf",
+      "phone": "01027478151",
+      "country": "",
+      "address": "fayoum",
+      "gender": "male"
+    },
+    {
+      "id": "ghjk",
+      "name": "ahmed samy",
+      "email": "ahmdsamy12@gmail.com",
+      "password": "Qmz4y6M$93Hvf",
+      "phone": "01027478151",
+      "country": "",
+      "address": "fayoum",
+      "gender": "male"
+    },
+    {
+      "id": "emt",
+      "name": "ahmed samy",
+      "email": "ahmdsamy12@gmail.com",
+      "password": "Qmz4y6M$93Hvf",
+      "phone": "01027478151",
+      "country": "usa",
+      "address": "fayoum",
+      "gender": "male"
+    }
+  ]
+}
